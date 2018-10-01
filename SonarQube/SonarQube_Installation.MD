@@ -68,6 +68,7 @@ sonar.jdbc.password=sonar
 mysql://<MySQL_Database_Server>:3306/sonar?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useConfigs=maxPerformance&useSSL=false
 sonar.web.host=0.0.0.0
 sonar.web.context=/sonar
+sonar.prot=9000 (should be uncomment)
 
 ```
 
